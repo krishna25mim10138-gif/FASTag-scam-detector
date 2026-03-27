@@ -1,13 +1,13 @@
-Name : Krishna Mewada Registration No : 25MIM10138
+**Name : Krishna Mewada Registration No : 25MIM10138**
 
-FASTag Scam Detection Tool.
-Problem
+**FASTag Scam Detection Tool.
+Problem**
 Nowadays many people fall into FASTag recharge scams through fake links and messages. These scams use attractive offers like cashback and urgent warnings to trick users.
 
-Solution
+**Solution**
 This project is a Python-based tool that helps users detect suspicious links and messages. It analyzes keywords and patterns to identify potential scams.
 
-Features
+**Features**
 Check if a link is suspicious
 Analyze messages for scam keywords
 Shows risk level (Low / Medium / High)
