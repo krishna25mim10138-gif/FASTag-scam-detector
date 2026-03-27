@@ -1,0 +1,1 @@
+# FASTag-scam-detector
